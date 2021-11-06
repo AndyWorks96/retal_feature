@@ -1,0 +1,8 @@
+##ignore this file##
+
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+.DS_Store
